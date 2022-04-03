@@ -1,0 +1,2 @@
+# Pincord
+Discordのピン留めするbot
