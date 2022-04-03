@@ -1,0 +1,25 @@
+{
+  "name": "pincord",
+  "version": "1.0.0",
+  "description": "Discordのピン留めするbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragoneena12/Pincord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragoneena12/Pincord/issues"
+  },
+  "homepage": "https://github.com/dragoneena12/Pincord#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
